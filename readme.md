@@ -30,8 +30,3 @@ git push --set-upstream origin login
 
 
 added login feature 
-
-
-<!-- git pull is used to see what are changes made by other user -->
-
-git pull
